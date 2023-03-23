@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "metahdep"]
+	path = metahdep
+	url = https://git.bioconductor.org/packages/metahdep
+	shallow = true
+	registered = true
+[submodule "phyext2"]
+	path = phyext2
+	url = https://github.com/cran/phyext2
+	shallow = true
+	registered = true
+[submodule "SigTree"]
+	path = SigTree
+	url = https://github.com/cran/SigTree
+	shallow = true
+	registered = true
