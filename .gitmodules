@@ -5,9 +5,6 @@
 [submodule "SigTree"]
 	path = SigTree
 	url = https://github.com/cran/SigTree
-[submodule "metahdep"]
-	path = metahdep
-	url = https://git.bioconductor.org/packages/metahdep
 [submodule "phyext2"]
 	path = phyext2
 	url = https://github.com/cran/phyext2
